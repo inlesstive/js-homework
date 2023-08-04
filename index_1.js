@@ -9,6 +9,4 @@ if(year_old >= 1 && year_old <= 18) {
     alert('Вам скоро на пенсию');
 } else if (year_old >= 60 && year_old <= 100) {
     alert('Вы пенсионер');
-} else {
-    alert('Что-то пошло не так')
 }
